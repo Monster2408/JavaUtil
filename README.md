@@ -3,7 +3,7 @@
 [![](https://jitpack.io/v/xyz.mlserver/JavaUtil.svg)](https://jitpack.io/#xyz.mlserver/JavaUtil)
 [![Twitter](https://badgen.net/twitter/follow/monster_2408?icon=twitter)](https://twitter.com/monster_2408)
 
-[Java Docs](https://docs-java.mlserver.jp/)
+[Java Docs](https://docs.mlserver.jp/JavaUtil/)
 
 ```xml
 <project>
